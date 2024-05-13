@@ -2,9 +2,6 @@
 # Display name
 title: 猫记蒸鱼馆
 
-# Name pronunciation (optional)
-name_pronunciation: Mao Ji
-
 # Full name (for SEO)
 first_name: 忠生
 last_name: 黄
